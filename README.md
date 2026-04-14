@@ -1,4 +1,6 @@
-Markdown Notes App
+**Markdown Notes App**
+
+
 A full‑stack Markdown‑based note‑taking application with authentication, live preview, search, and responsive design. Built using React, Node.js, SQLite, JWT authentication, and Tailwind CSS.
 
 🔹 Features
